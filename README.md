@@ -1,4 +1,4 @@
-# Neural Network with TensorFlow: Dataset Loading, Training, and Visualization
+# Neural Network with TensorFlow: Dataset Loading, and Training
 
 ## **Project Overview**
 This project implements a neural network using TensorFlow to load, preprocess, train, and evaluate a dataset. The work includes visualization of results and predictions. The implementation satisfies all the provided requirements, including hidden layers, accurate class handling, and appropriate data processing.
