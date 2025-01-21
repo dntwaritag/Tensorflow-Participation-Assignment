@@ -74,12 +74,5 @@ The MNIST dataset is used in this project. It consists of:
    - Review saved model files for reuse.
 
 ---
-
-## **Visualization**
-- **Predictions**: The script visualizes the first 9 images from the test set with their predicted and actual labels.
-- **Confusion Matrix**: A heatmap showing model performance on each class.
-
----
-
 ## **Acknowledgments**
 This project was completed as part of the neural network assignment in TensorFlow. Special thanks to the course instructor and teammates for their collaboration.
