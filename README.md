@@ -69,9 +69,14 @@ The MNIST dataset is used in this project. It consists of:
    python neural_network.py
    ```
 5. **View Results**:
-   - Check predictions in the output plots.
+   - Check predictions in the output.
    - Examine model summary, accuracy, and loss metrics in the console.
    - Review saved model files for reuse.
+
+## **Proof of Participation**
+GitHub repository includes contributions from all team members.
+Commit history and version control demonstrate collaboration.
+![image](https://github.com/user-attachments/assets/10d69002-8555-49a9-ba72-104734d6c113)
 
 ---
 ## **Acknowledgments**
